@@ -1,4 +1,5 @@
 var a, b
-a = 5;
-b = 10;
-sum = a + b;
+a = 20;
+b = 30
+sum = a + b
+
